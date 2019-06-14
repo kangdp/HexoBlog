@@ -1,6 +1,7 @@
 ---
 title: Gradle入门之环境配置、编写第一个脚本
-date: 2018-06-13 11:46:05
+date: 2018-05-29
+updated: 2018-05-29
 tags:
 - Gradle
 categories: Gradle

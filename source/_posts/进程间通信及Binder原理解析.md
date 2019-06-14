@@ -1,6 +1,7 @@
 ---
 title: 进程间通信及Binder原理解析
-date: 2018-06-09 16:47:19
+date: 2018-04-18
+updated: 2018-04-18
 tags:
 - Android
 - Process

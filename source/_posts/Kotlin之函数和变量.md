@@ -1,6 +1,7 @@
 ﻿---
-title: Kotlin之变量和属性
-date: 2018-06-13 11:27:32
+title: Kotlin之函数和变量
+date: 2019-01-03
+updated: 2019-01-03
 tags:
 - Kotlin
 categories: Kotlin
