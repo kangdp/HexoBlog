@@ -7,6 +7,7 @@ tags:
 categories: Gradle
 ---
 
+# 准备
 在进行**Gradle**安装之前要确保已经安装配置好**Java**环境，要求**JDK6**以上，并且在环境变量里配置了**JAVA_HOME**，查看Java版本可以在终端输入如下命令：
 
        java -version
@@ -29,7 +30,7 @@ gradle的初始化脚本目录
 - **src**
 源文件
 
-接下来就是配置Gradle环境变量：
+# 配置Gradle环境变量
 
 打开我的电脑>属性面板>高级系统设置>环境变量，新建一个**GRADLE_HOME**变量，变量值为Gradle的**bin**目录，例如我直接使用的是Android Studio中Gradle的目录
 ![](https://upload-images.jianshu.io/upload_images/2349677-be42ca4714a33a7a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
